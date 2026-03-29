@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "cd project && npm run dev",
+    "build": "cd project && npm run build",
+    "preview": "cd project && npm run preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1"
+  }
+}
